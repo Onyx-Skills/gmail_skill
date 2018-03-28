@@ -1,0 +1,17 @@
+{
+  "name": "Gmail",
+  "raw": "gmail_skill",
+  "version": "1.0.0",
+  "description": "Get your mails in Onyx",
+  "packages":[
+    "google-api-python-client",
+    "apiclient",
+    "oauth2client",
+    "httplib2"
+  ],
+  "dependencies": [],
+  "author": "Cassim Khouani",
+  "license": "Creative Commons 3.0 France",
+  "navbar": "False",
+  "data": "False"
+}
