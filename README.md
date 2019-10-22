@@ -1,4 +1,4 @@
-**GoogleGmailSkill**
+**GoogleGmailSkill** DEPRECATED
 ===================
 
 
